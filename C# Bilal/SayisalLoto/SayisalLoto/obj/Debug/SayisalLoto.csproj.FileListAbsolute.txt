@@ -1,0 +1,9 @@
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe.config
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.pdb
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csprojAssemblyReference.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Properties.Resources.resources
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.GenerateResource.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.CoreCompileInputs.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.exe
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.pdb

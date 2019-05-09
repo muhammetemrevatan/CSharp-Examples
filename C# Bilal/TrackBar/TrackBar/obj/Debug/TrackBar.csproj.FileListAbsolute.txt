@@ -1,0 +1,10 @@
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\TrackBar\TrackBar\bin\Debug\TrackBar.exe.config
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\TrackBar\TrackBar\bin\Debug\TrackBar.exe
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\TrackBar\TrackBar\bin\Debug\TrackBar.pdb
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\TrackBar\TrackBar\obj\Debug\TrackBar.csprojAssemblyReference.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\TrackBar\TrackBar\obj\Debug\TrackBar.Form1.resources
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\TrackBar\TrackBar\obj\Debug\TrackBar.Properties.Resources.resources
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\TrackBar\TrackBar\obj\Debug\TrackBar.csproj.GenerateResource.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\TrackBar\TrackBar\obj\Debug\TrackBar.csproj.CoreCompileInputs.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\TrackBar\TrackBar\obj\Debug\TrackBar.exe
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\TrackBar\TrackBar\obj\Debug\TrackBar.pdb

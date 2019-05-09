@@ -1,0 +1,19 @@
+c:\users\administrator\documents\visual studio 2015\Projects\PanelOrnegi\PanelOrnegi\bin\Debug\PanelOrnegi.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\PanelOrnegi\PanelOrnegi\bin\Debug\PanelOrnegi.exe
+c:\users\administrator\documents\visual studio 2015\Projects\PanelOrnegi\PanelOrnegi\bin\Debug\PanelOrnegi.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\PanelOrnegi\PanelOrnegi\obj\Debug\PanelOrnegi.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\PanelOrnegi\PanelOrnegi\obj\Debug\PanelOrnegi.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\PanelOrnegi\PanelOrnegi\obj\Debug\PanelOrnegi.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\PanelOrnegi\PanelOrnegi\obj\Debug\PanelOrnegi.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\PanelOrnegi\PanelOrnegi\obj\Debug\PanelOrnegi.exe
+c:\users\administrator\documents\visual studio 2015\Projects\PanelOrnegi\PanelOrnegi\obj\Debug\PanelOrnegi.pdb
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PanelOrnegi\PanelOrnegi\bin\Debug\PanelOrnegi.exe.config
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PanelOrnegi\PanelOrnegi\bin\Debug\PanelOrnegi.exe
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PanelOrnegi\PanelOrnegi\bin\Debug\PanelOrnegi.pdb
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PanelOrnegi\PanelOrnegi\obj\Debug\PanelOrnegi.csprojAssemblyReference.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PanelOrnegi\PanelOrnegi\obj\Debug\PanelOrnegi.Form1.resources
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PanelOrnegi\PanelOrnegi\obj\Debug\PanelOrnegi.Properties.Resources.resources
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PanelOrnegi\PanelOrnegi\obj\Debug\PanelOrnegi.csproj.GenerateResource.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PanelOrnegi\PanelOrnegi\obj\Debug\PanelOrnegi.csproj.CoreCompileInputs.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PanelOrnegi\PanelOrnegi\obj\Debug\PanelOrnegi.exe
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PanelOrnegi\PanelOrnegi\obj\Debug\PanelOrnegi.pdb

@@ -1,0 +1,10 @@
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\Kronometre\Kronometre\bin\Debug\Kronometre.exe.config
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\Kronometre\Kronometre\bin\Debug\Kronometre.exe
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\Kronometre\Kronometre\bin\Debug\Kronometre.pdb
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\Kronometre\Kronometre\obj\Debug\Kronometre.csprojAssemblyReference.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\Kronometre\Kronometre\obj\Debug\Kronometre.Form1.resources
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\Kronometre\Kronometre\obj\Debug\Kronometre.Properties.Resources.resources
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\Kronometre\Kronometre\obj\Debug\Kronometre.csproj.GenerateResource.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\Kronometre\Kronometre\obj\Debug\Kronometre.csproj.CoreCompileInputs.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\Kronometre\Kronometre\obj\Debug\Kronometre.exe
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\Kronometre\Kronometre\obj\Debug\Kronometre.pdb

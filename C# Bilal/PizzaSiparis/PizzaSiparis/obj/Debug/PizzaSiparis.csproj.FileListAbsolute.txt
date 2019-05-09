@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2015\Projects\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.exe
+c:\users\administrator\documents\visual studio 2015\Projects\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.exe
+c:\users\administrator\documents\visual studio 2015\Projects\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.pdb
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.exe.config
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.exe
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PizzaSiparis\PizzaSiparis\bin\Debug\PizzaSiparis.pdb
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Form1.resources
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.Properties.Resources.resources
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csproj.GenerateResource.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.csproj.CoreCompileInputs.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.exe
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\PizzaSiparis\PizzaSiparis\obj\Debug\PizzaSiparis.pdb

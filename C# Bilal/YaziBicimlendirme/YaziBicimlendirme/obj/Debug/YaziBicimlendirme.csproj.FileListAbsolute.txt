@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2015\Projects\YaziBicimlendirme\YaziBicimlendirme\bin\Debug\YaziBicimlendirme.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\YaziBicimlendirme\YaziBicimlendirme\bin\Debug\YaziBicimlendirme.exe
+c:\users\administrator\documents\visual studio 2015\Projects\YaziBicimlendirme\YaziBicimlendirme\bin\Debug\YaziBicimlendirme.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\YaziBicimlendirme\YaziBicimlendirme\obj\Debug\YaziBicimlendirme.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\YaziBicimlendirme\YaziBicimlendirme\obj\Debug\YaziBicimlendirme.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\YaziBicimlendirme\YaziBicimlendirme\obj\Debug\YaziBicimlendirme.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\YaziBicimlendirme\YaziBicimlendirme\obj\Debug\YaziBicimlendirme.exe
+c:\users\administrator\documents\visual studio 2015\Projects\YaziBicimlendirme\YaziBicimlendirme\obj\Debug\YaziBicimlendirme.pdb
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\YaziBicimlendirme\YaziBicimlendirme\bin\Debug\YaziBicimlendirme.exe.config
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\YaziBicimlendirme\YaziBicimlendirme\bin\Debug\YaziBicimlendirme.exe
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\YaziBicimlendirme\YaziBicimlendirme\bin\Debug\YaziBicimlendirme.pdb
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\YaziBicimlendirme\YaziBicimlendirme\obj\Debug\YaziBicimlendirme.Form1.resources
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\YaziBicimlendirme\YaziBicimlendirme\obj\Debug\YaziBicimlendirme.Properties.Resources.resources
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\YaziBicimlendirme\YaziBicimlendirme\obj\Debug\YaziBicimlendirme.csproj.GenerateResource.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\YaziBicimlendirme\YaziBicimlendirme\obj\Debug\YaziBicimlendirme.csproj.CoreCompileInputs.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\YaziBicimlendirme\YaziBicimlendirme\obj\Debug\YaziBicimlendirme.exe
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\YaziBicimlendirme\YaziBicimlendirme\obj\Debug\YaziBicimlendirme.pdb

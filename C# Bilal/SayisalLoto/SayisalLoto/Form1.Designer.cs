@@ -1,4 +1,4 @@
-﻿namespace ornek1
+﻿namespace SayisalLoto
 {
     partial class Form1
     {
@@ -34,7 +34,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(493, 388);
+            this.ClientSize = new System.Drawing.Size(385, 319);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);

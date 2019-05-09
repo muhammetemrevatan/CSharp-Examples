@@ -1,0 +1,10 @@
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csprojAssemblyReference.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Form1.resources
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb

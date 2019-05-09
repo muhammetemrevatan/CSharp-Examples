@@ -1,0 +1,10 @@
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\OgrenciSistemi\OgrenciSistemi\bin\Debug\OgrenciSistemi.exe.config
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\OgrenciSistemi\OgrenciSistemi\bin\Debug\OgrenciSistemi.exe
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\OgrenciSistemi\OgrenciSistemi\bin\Debug\OgrenciSistemi.pdb
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.csprojAssemblyReference.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.Form1.resources
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.Properties.Resources.resources
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.csproj.GenerateResource.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.csproj.CoreCompileInputs.cache
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.exe
+D:\Bilgisayar-Programciligi\2.-Sinif\Bahar\C# Programlama\OgrenciSistemi\OgrenciSistemi\obj\Debug\OgrenciSistemi.pdb
